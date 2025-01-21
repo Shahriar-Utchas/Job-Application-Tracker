@@ -56,6 +56,7 @@
     <Compile Include="EF\JATContext.cs" />
     <Compile Include="EF\Tables\Application.cs" />
     <Compile Include="EF\Tables\Users.cs" />
+    <Compile Include="Interfaces\IApllicationFeatures.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202501210442307_initDB.cs" />
     <Compile Include="Migrations\202501210442307_initDB.Designer.cs">

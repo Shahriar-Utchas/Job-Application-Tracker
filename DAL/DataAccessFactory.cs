@@ -15,5 +15,9 @@ namespace DAL
         {
             return new ApplicationRepo();
         }
+        public static IApllicationFeatures applicationStatus()
+        {
+            return new ApplicationRepo();
+        }
     }
 }

@@ -46,5 +46,19 @@ namespace Job_Application_Tracker.Controllers
             var data = ApplicationService.DeleteApplication(id);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        [HttpPost]
+        [Route("api/applications/userAppDetails/{id}")]
+        public HttpResponseMessage userApplicationDetails(int id)
+        {
+            var data = ApplicationService.UserApplicationDetails(id);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
+        [HttpPost]
+        [Route("api/applications/applicationStatus/{status}")]
+        public HttpResponseMessage applicationStatus(string status)
+        {
+            var data = ApplicationService.GetApplicationsStatus(status);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
     }
 }

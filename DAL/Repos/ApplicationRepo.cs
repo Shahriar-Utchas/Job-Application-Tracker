@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class ApplicationRepo :RepoDB, IRepo<Application, int, Application>
+    internal class ApplicationRepo :RepoDB, IRepo<Application, int, Application>, IApllicationFeatures
     {
         public Application ADD(Application obj)
         {
@@ -29,6 +29,11 @@ namespace DAL.Repos
         public List<Application> GetALL()
         {
             return db.Applications.ToList();
+        }
+
+        public List<Application> GetApplicationsStatus(string s)
+        {
+            return db.Applications.Where(x => x.status == s).ToList();
         }
 
         public Application GetbyID(int id)
