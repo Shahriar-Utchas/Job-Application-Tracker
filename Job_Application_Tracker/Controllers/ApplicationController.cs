@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Text;
 using System.Web.Http;
 
 namespace Job_Application_Tracker.Controllers
@@ -88,5 +89,26 @@ namespace Job_Application_Tracker.Controllers
             var data = ApplicationService.ApplicationWithDeadline();
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        [HttpGet]
+        [Route("api/applications/export")]
+        public HttpResponseMessage ExportApplicationsToCsv()
+        {
+            var csvContent = ApplicationService.GenerateCsvForApplications();
+
+
+            // Prepare the response
+            var result = new HttpResponseMessage(HttpStatusCode.OK)
+            {
+                Content = new StringContent(csvContent, Encoding.UTF8, "text/csv")
+            };
+            result.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment")
+            {
+                FileName = "Applications.csv"
+            };
+
+            return result;
+        }
+
+
     }
 }

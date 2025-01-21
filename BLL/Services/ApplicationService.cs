@@ -119,6 +119,30 @@ namespace BLL.Services
             var repo = DataAccessFactory.deadlineFeature();
             return GetMapper().Map<List<ApplicationDTO>>(repo.ApplicationWithDeadlines());
         }
+        public static List<ApplicationDTO> ExportApplicationsToCsv()
+        {
+            var repo = DataAccessFactory.getApplications();
+            return GetMapper().Map<List<ApplicationDTO>>(repo.GetALL());
+        }
+        public static string GenerateCsvForApplications()
+        {
+            var csvBuilder = new StringBuilder();
+
+            var applications = DataAccessFactory.getApplications().GetALL();
+            // Add CSV headers
+            csvBuilder.AppendLine("Application ID,User ID,Company Name,Position,Date Applied,Status,Notes,Deadline");
+
+
+            // Add data rows
+            foreach (var app in applications)
+            {
+                csvBuilder.AppendLine($"{app.application_id},{app.user_id},{app.company_name},{app.position},{app.date_applied:yyyy-MM-dd},{app.status},{app.notes},{app.deadline:yyyy-MM-dd}");
+
+            }
+
+            return csvBuilder.ToString();
+        }
+
     }
 
-  }
+}
