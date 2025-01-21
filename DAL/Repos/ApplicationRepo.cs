@@ -27,11 +27,13 @@ namespace DAL.Repos
 
         public List<Application> ApplicationWithDeadlines()
         {
-            var targetDate = DateTime.UtcNow.AddDays(3);
+            var startDate = DateTime.UtcNow.AddDays(-3).Date;
+            var endDate = DateTime.UtcNow.Date;             
 
             return db.Applications
-                     .Where(a => a.deadline != null && a.deadline <= targetDate)
+                     .Where(a => a.date_applied >= startDate && a.date_applied <= endDate)
                      .ToList();
+
         }
 
         public bool Delete(int id)
@@ -49,7 +51,9 @@ namespace DAL.Repos
 
         public List<Application> GetApplicationsStatus(string s)
         {
-            return db.Applications.Where(x => x.status == s).ToList();
+            //return db.Applications.Where(x => x.status == s).ToList();
+            return db.Applications.Where(x => x.status.Contains(s)).ToList();
+
         }
 
         public Application GetbyID(int id)
