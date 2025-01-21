@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\ApplicationDTO.cs" />
+    <Compile Include="DTOs\ApplicationUserDTO.cs" />
+    <Compile Include="DTOs\UserApplicationDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ApplicationService.cs" />

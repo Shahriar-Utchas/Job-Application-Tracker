@@ -71,3 +71,8 @@ E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\obj\Debug\Job_Applic
 E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\obj\Debug\Job_Appl.6F13095D.Up2Date
 E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\obj\Debug\Job_Application_Tracker.dll
 E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\obj\Debug\Job_Application_Tracker.pdb
+E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\bin\AutoMapper.dll
+E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\bin\DAL.dll
+E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\bin\AutoMapper.xml
+E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\bin\DAL.pdb
+E:\Adv .NET\Job_Application_Tracker\Job_Application_Tracker\bin\DAL.dll.config
