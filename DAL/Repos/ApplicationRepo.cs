@@ -21,6 +21,7 @@ namespace DAL.Repos
         public bool Delete(int id)
         {
             var obj = db.Applications.Find(id);
+            if(obj == null) return false;
             db.Applications.Remove(obj);
             return db.SaveChanges() > 0;
         }
