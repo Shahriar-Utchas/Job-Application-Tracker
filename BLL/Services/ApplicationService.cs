@@ -100,5 +100,20 @@ namespace BLL.Services
             if (repo == null) return "Application not found";
             return repo.Applicationtrack(id);
         }
+        public static ApplicationDTO AddApplicationNotes(int appId, string newNotes)
+        {
+            var repo = DataAccessFactory.getApplications();
+            var application = repo.GetbyID(appId);
+
+            if (application == null)
+                return null;
+
+            application.notes = newNotes;
+
+            repo.Update(application);
+
+            return GetMapper().Map<ApplicationDTO>(application);
+        }
+
     }
 }

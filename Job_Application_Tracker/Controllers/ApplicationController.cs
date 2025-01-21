@@ -74,5 +74,12 @@ namespace Job_Application_Tracker.Controllers
             var data = ApplicationService.Applicationtrack(id);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        [HttpPost]
+        [Route("api/applications/addNotes/{id}/{notes}")]
+        public HttpResponseMessage addNotes(int id, string notes)
+        {
+            var data = ApplicationService.AddApplicationNotes(id, notes);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
     }
 }
