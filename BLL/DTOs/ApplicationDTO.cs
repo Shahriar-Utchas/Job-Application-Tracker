@@ -14,7 +14,9 @@ namespace BLL.DTOs
         public string position { get; set; }
 
         public DateTime date_applied { get; set; }
-        public string status { get; set; }
+        public string status { get; set; }  
         public string notes { get; set; }
+        public DateTime? deadline { get; set; }
+
     }
 }

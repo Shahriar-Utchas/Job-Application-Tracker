@@ -81,5 +81,12 @@ namespace Job_Application_Tracker.Controllers
             var data = ApplicationService.AddApplicationNotes(id, notes);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        [HttpGet]
+        [Route("api/applications/deadlines")]
+        public HttpResponseMessage deadlines()
+        {
+            var data = ApplicationService.ApplicationWithDeadline();
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
     }
 }

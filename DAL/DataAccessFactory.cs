@@ -23,5 +23,9 @@ namespace DAL
         {
             return new ApplicationRepo();
         }
+        public static IApllicationFeatures deadlineFeature()
+        {
+            return new ApplicationRepo();
+        }
     }
 }

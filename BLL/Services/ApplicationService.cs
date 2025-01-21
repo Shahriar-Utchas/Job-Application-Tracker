@@ -114,6 +114,11 @@ namespace BLL.Services
 
             return GetMapper().Map<ApplicationDTO>(application);
         }
-
+        public static List<ApplicationDTO> ApplicationWithDeadline()
+        {
+            var repo = DataAccessFactory.deadlineFeature();
+            return GetMapper().Map<List<ApplicationDTO>>(repo.ApplicationWithDeadlines());
+        }
     }
-}
+
+  }

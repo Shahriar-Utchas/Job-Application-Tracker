@@ -25,6 +25,15 @@ namespace DAL.Repos
             return obj.status;
         }
 
+        public List<Application> ApplicationWithDeadlines()
+        {
+            var targetDate = DateTime.UtcNow.AddDays(3);
+
+            return db.Applications
+                     .Where(a => a.deadline != null && a.deadline <= targetDate)
+                     .ToList();
+        }
+
         public bool Delete(int id)
         {
             var obj = db.Applications.Find(id);
@@ -51,6 +60,7 @@ namespace DAL.Repos
         public Application Update(Application obj)
         {
             var exobj = db.Applications.Find(obj.application_id);
+            if (exobj == null) return null;
             db.Entry(exobj).CurrentValues.SetValues(obj);
             db.SaveChanges();
             return obj;

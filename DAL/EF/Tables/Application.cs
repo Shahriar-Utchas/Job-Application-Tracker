@@ -20,6 +20,7 @@ namespace DAL.EF.Tables
         public DateTime date_applied { get; set; }
         public string status { get; set; }
         public string notes { get; set; }
+        public DateTime? deadline { get; set; }
 
         public virtual Users Users { get; set; }
 

@@ -11,5 +11,6 @@ namespace DAL.Interfaces
     {
         List<Application> GetApplicationsStatus(string status);
         string Applicationtrack(int id);
+        List<Application> ApplicationWithDeadlines();
     }
 }
