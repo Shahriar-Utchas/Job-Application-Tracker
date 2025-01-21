@@ -3,51 +3,51 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\Job_Application_Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\repos\\repodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\repos\\repodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|e:\\adv .net\\job_application_tracker\\job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|E:\\Adv .NET\\Job_Application_Tracker\\job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|solutionrelative:job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|e:\\adv .net\\job_application_tracker\\bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|e:\\adv .net\\job_application_tracker\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|e:\\adv .net\\job_application_tracker\\bll\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\bll\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\ef\\jatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\ef\\jatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\jatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\ef\\tables\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\ef\\tables\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\ef\\tables\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\ef\\tables\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,18 +74,17 @@
               "RelativeToolTip": "Job_Application_Tracker\\Controllers\\ApplicationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:48:02.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:48:02.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DataAccessFactory.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
               "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
               "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
               "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T04:49:04.442Z",
               "EditorCaption": ""
@@ -100,12 +99,11 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:49:10.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:49:10.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RepoDB.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\RepoDB.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\RepoDB.cs",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "DAL\\Repos\\RepoDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:49:52.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:49:52.817Z"
             },
             {
               "$type": "Document",
@@ -124,20 +121,20 @@
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
               "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Interfaces\\IRepo.cs",
               "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T04:51:16.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApplicationRepo.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\ApplicationRepo.cs",
               "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\ApplicationRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T04:51:58.91Z",
               "EditorCaption": ""
@@ -152,8 +149,7 @@
               "RelativeToolTip": "BLL\\Services\\ApplicationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:47:09.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:47:09.541Z"
             },
             {
               "$type": "Document",
@@ -165,8 +161,7 @@
               "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:46:20.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:46:20.08Z"
             },
             {
               "$type": "Document",
@@ -178,8 +173,7 @@
               "RelativeToolTip": "BLL\\DTOs\\ApplicationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:46:32.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:46:32.569Z"
             },
             {
               "$type": "Document",
@@ -191,8 +185,7 @@
               "RelativeToolTip": "DAL\\EF\\JATContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:24:17.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:24:17.817Z"
             },
             {
               "$type": "Document",
@@ -204,8 +197,7 @@
               "RelativeToolTip": "DAL\\EF\\Tables\\Users.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:28:44.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:28:44.962Z"
             },
             {
               "$type": "Document",
@@ -217,8 +209,7 @@
               "RelativeToolTip": "DAL\\EF\\Tables\\Application.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:25:02.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:25:02.534Z"
             }
           ]
         }
