@@ -60,5 +60,19 @@ namespace Job_Application_Tracker.Controllers
             var data = ApplicationService.GetApplicationsStatus(status);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
+        [HttpPost]
+        [Route("api/applications/updateStatus/{appId}/{newStatus}")]
+        public HttpResponseMessage updateApplicationStatus(int appId, string newStatus)
+        {
+            var data = ApplicationService.UpdateApplicationStatus(appId, newStatus);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
+        [HttpGet]
+        [Route("api/applications/track/{id}")]
+        public HttpResponseMessage trackApplication(int id)
+        {
+            var data = ApplicationService.Applicationtrack(id);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
     }
 }

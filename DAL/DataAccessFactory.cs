@@ -19,5 +19,9 @@ namespace DAL
         {
             return new ApplicationRepo();
         }
+        public static IApllicationFeatures applicationTrack()
+        {
+            return new ApplicationRepo();
+        }
     }
 }

@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "E:\\Adv .NET\\Job_Application_Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|E:\\Adv .NET\\Job_Application_Tracker\\job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|e:\\adv .net\\job_application_tracker\\job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F082C243-5BC5-4210-B65E-A01433A8FD62}|Job_Application_Tracker\\Job_Application_Tracker.csproj|solutionrelative:job_application_tracker\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|e:\\adv .net\\job_application_tracker\\bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\interfaces\\iapllicationfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iapllicationfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\interfaces\\iapllicationfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iapllicationfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|e:\\adv .net\\job_application_tracker\\bll\\dtos\\userapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|e:\\adv .net\\job_application_tracker\\dal\\ef\\tables\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8251A6-480E-415F-A9F4-FD9E4F03C7B2}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|E:\\Adv .NET\\Job_Application_Tracker\\bll\\dtos\\userapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4195E185-55B7-4D49-8B67-1C2FA5C7D8AD}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,37 +42,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationService.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\BLL\\Services\\ApplicationService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ApplicationService.cs",
-              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\BLL\\Services\\ApplicationService.cs",
-              "RelativeToolTip": "BLL\\Services\\ApplicationService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAcwEwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:00:12.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationRepo.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\ApplicationRepo.cs",
-              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\ApplicationRepo.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:09:33.076Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IApllicationFeatures.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Interfaces\\IApllicationFeatures.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IApllicationFeatures.cs",
@@ -98,33 +76,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:23:25.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationController.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\Job_Application_Tracker\\Controllers\\ApplicationController.cs",
               "RelativeDocumentMoniker": "Job_Application_Tracker\\Controllers\\ApplicationController.cs",
               "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\Job_Application_Tracker\\Controllers\\ApplicationController.cs",
               "RelativeToolTip": "Job_Application_Tracker\\Controllers\\ApplicationController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T04:48:02.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\BLL\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ApplicationService.cs",
+              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\BLL\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "BLL\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2AAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:00:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationRepo.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ApplicationRepo.cs",
+              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\Repos\\ApplicationRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ApplicationRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:09:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:23:25.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\EF\\Tables\\Application.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Application.cs",
+              "ToolTip": "E:\\Adv .NET\\Job_Application_Tracker\\DAL\\EF\\Tables\\Application.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Application.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:40:17.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserApplicationDTO.cs",
               "DocumentMoniker": "E:\\Adv .NET\\Job_Application_Tracker\\BLL\\DTOs\\UserApplicationDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\UserApplicationDTO.cs",
@@ -132,8 +149,7 @@
               "RelativeToolTip": "BLL\\DTOs\\UserApplicationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:50:56.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:50:56.377Z"
             }
           ]
         }

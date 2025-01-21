@@ -18,6 +18,13 @@ namespace DAL.Repos
 
         }
 
+        public string Applicationtrack(int id)
+        {
+            var obj = db.Applications.Find(id);
+            if (obj == null) return "Status not found";
+            return obj.status;
+        }
+
         public bool Delete(int id)
         {
             var obj = db.Applications.Find(id);

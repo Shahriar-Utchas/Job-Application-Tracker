@@ -10,5 +10,6 @@ namespace DAL.Interfaces
     public interface IApllicationFeatures
     {
         List<Application> GetApplicationsStatus(string status);
+        string Applicationtrack(int id);
     }
 }

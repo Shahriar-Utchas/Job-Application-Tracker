@@ -52,7 +52,7 @@ namespace BLL.Services
             var repo = DataAccessFactory.getApplications();
             return repo.Delete(id);
         }
-        
+
         public static Dictionary<string, object> UserApplicationDetails(int id)
         {
             var repo = DataAccessFactory.getApplications();
@@ -76,6 +76,29 @@ namespace BLL.Services
         {
             var repo = DataAccessFactory.applicationStatus();
             return GetMapper().Map<List<ApplicationDTO>>(repo.GetApplicationsStatus(s));
+        }
+
+        public static ApplicationDTO UpdateApplicationStatus(int appId, string newStatus)
+        {
+            var repo = DataAccessFactory.getApplications();
+            var application = repo.GetbyID(appId);
+
+            if (application == null)
+                return null;
+
+            string oldStatus = application.status;
+
+            application.status = $"{oldStatus} -> {newStatus}";
+
+            repo.Update(application);
+
+            return GetMapper().Map<ApplicationDTO>(application);
+        }
+        public static string Applicationtrack(int id)
+        {
+            var repo = DataAccessFactory.applicationTrack();
+            if (repo == null) return "Application not found";
+            return repo.Applicationtrack(id);
         }
     }
 }
